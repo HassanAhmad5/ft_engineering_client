@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887856937531",
+    "project_id": "ftengineering-a93d9",
+    "storage_bucket": "ftengineering-a93d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887856937531:android:6ebbc91c26bb0b090e7a1e",
+        "android_client_info": {
+          "package_name": "com.example.ft_engineering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDstZEHS9QvNzYHKihOhPEmQbzVUTr2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887856937531:android:2aaef688c1ca1b110e7a1e",
+        "android_client_info": {
+          "package_name": "com.example.ft_engineering_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDstZEHS9QvNzYHKihOhPEmQbzVUTr2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
